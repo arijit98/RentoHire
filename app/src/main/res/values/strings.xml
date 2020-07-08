@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rent or Hire</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">CqVtvmxdudy19SmKsg3n2jPIqBOiNTekdHmlqosS</string>
+    <string name="back4app_client_key">nadUQe6Il74K2R41lyMymWu9CTKbQVjA3f2Ala1I</string>
+    <string name="title_activity_passenger">Passenger</string>
+    <string name="title_activity_view_locations_map">Map</string>
+    <string name="title_activity_hire">Map</string>
+</resources>
